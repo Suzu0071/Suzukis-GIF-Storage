@@ -11,3 +11,4 @@ Open the gif, right click it, and click copy image link.
 | papyrus-stomp | https://raw.githubusercontent.com/Suzu0071/Suzukis-GIF-Storage/refs/heads/main/papyrus-stomp.gif |
 | plap | https://raw.githubusercontent.com/Suzu0071/Suzukis-GIF-Storage/refs/heads/main/plap.gif |
 | vivian | https://raw.githubusercontent.com/Suzu0071/Suzukis-GIF-Storage/refs/heads/main/vivian.gif |
+| mr-lizard | https://raw.githubusercontent.com/Suzu0071/Suzukis-GIF-Storage/refs/heads/main/mr-lizard.gif |
